@@ -14,7 +14,7 @@ _Main task:_ STM32 Development Environment Setup & Frontend Framework Setup
 
 ### Day 0: September 24, 2024
 
-**Today's Progress**: 
+**Today's Progress**: CubeMX and STMCubeIDE installed, uploaded blinking LED project to the board. Configured 108 MHz system clock. PB0 (GPIO) & PA0 (PWM output) used as configured pins.
 
 **Thoughts:** 
 
@@ -23,4 +23,4 @@ _Main task:_ STM32 Development Environment Setup & Frontend Framework Setup
 
 ### Day 1: September 25, 2024
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
