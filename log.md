@@ -44,9 +44,15 @@ After local installation, debugging and uploading is all OK.
 
 **Link to work:**
 - Embedded: https://github.com/kyberszittya/100days-embedded
-- Personal page: https://github.com/kyberszittya/personal-page
+- Personal page: https://github.com/kyberszittya/personal-page, commit: https://github.com/kyberszittya/personal-page/commit/a00a7acdab959aeb27d18e38ff8ae867e9762117
 
 
 ### Day 1: September 25, 2024
 
-**Today's Progress**: 
+**Today's Progress**: This day was a little tiring. Nevertheless: made some progress with creating a Spring Boot backend (with dummy security). Also started Projects page on Personal Page.
+
+**Thoughts:** : nothing extraordinary. Previously I had exposure to Spring Boot. The only problem it caused, to install Java 23 and IntelliJ for proper work.
+
+
+**Link to work:**
+- Personal page: https://github.com/kyberszittya/personal-page, commit: https://github.com/kyberszittya/personal-page/commit/10630dfcd50b057d115e69dec9177616eee011dc
