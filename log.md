@@ -71,3 +71,6 @@ After local installation, debugging and uploading is all OK.
 **Today's Progress**: Finished the calendar component on the Personal page, serving blog entries by Spring (in Hibernate for now).
 
 **Thoughts:** : the calendar component had its strange behavior, especially when Spring was used to store the blog entries. 
+
+**Link to work:**
+- Personal page: https://github.com/kyberszittya/personal-page, commit: https://github.com/kyberszittya/personal-page/commit/79c52af3e6f1da52d0dae78c92ca814083972772
