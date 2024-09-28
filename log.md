@@ -56,3 +56,18 @@ After local installation, debugging and uploading is all OK.
 
 **Link to work:**
 - Personal page: https://github.com/kyberszittya/personal-page, commit: https://github.com/kyberszittya/personal-page/commit/10630dfcd50b057d115e69dec9177616eee011dc
+
+
+### Day missed: September 26, 2024
+
+**Today's Progress**: I was back in work and I had tremendous work, finished in the night. Today was unfortunately missed.
+
+### Day missed: September 27, 2024
+
+**Today's Progress**: I was back in work at my second workplace (had a one day event till late night), so I missed this as I arived around midnight at home. Better do work with fresh mind.
+
+### Day 2: September 28, 2024
+
+**Today's Progress**: Finished the calendar component on the Personal page, serving blog entries by Spring (in Hibernate for now).
+
+**Thoughts:** : the calendar component had its strange behavior, especially when Spring was used to store the blog entries. 
