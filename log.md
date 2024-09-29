@@ -74,3 +74,12 @@ After local installation, debugging and uploading is all OK.
 
 **Link to work:**
 - Personal page: https://github.com/kyberszittya/personal-page, commit: https://github.com/kyberszittya/personal-page/commit/79c52af3e6f1da52d0dae78c92ca814083972772
+
+### Day 3: September 29, 2024
+
+**Today's progress**: Using PostgreSQL instead of H2.
+
+**Thoughts**: granting access for read only user is a good thing.
+
+**Link to work:**
+- Personal page: https://github.com/kyberszittya/personal-page, commit: https://github.com/kyberszittya/personal-page/commit/3e7114e9c5d19e0f79b36180a1d02b9af89c5a56
