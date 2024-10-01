@@ -93,3 +93,12 @@ After local installation, debugging and uploading is all OK.
 **Link to work:**
 - 100 days of AI: https://github.com/kyberszittya/100days-ai, commit: https://github.com/kyberszittya/100days-ai/commit/6fdaa6fc54f7e73799c65e0f9e9d3ebf76fba561
 
+### Day 5: October 1, 2024
+
+**Today's progress**: Login page on personal page. Also started to add a new post creation on the blog.
+
+**Thoughts**: Routers. Routers everywhere.
+
+**Link to work:**
+- Personal page: https://github.com/kyberszittya/personal-page, commit: https://github.com/kyberszittya/personal-page/commit/b60ef8dc448cf24d8a158df66fd686a58389f61d, commit: https://github.com/kyberszittya/personal-page/commit/6bfd3acc48e0558344de1f0092b2ed0c10f38198
+
