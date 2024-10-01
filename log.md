@@ -83,3 +83,13 @@ After local installation, debugging and uploading is all OK.
 
 **Link to work:**
 - Personal page: https://github.com/kyberszittya/personal-page, commit: https://github.com/kyberszittya/personal-page/commit/3e7114e9c5d19e0f79b36180a1d02b9af89c5a56
+
+### Day 4: September 30, 2024
+
+**Today's progress**: Just a simple refresher in OpenCV and PyQT.
+
+**Thoughts**: PyQT and ChatGPT suits well together.
+
+**Link to work:**
+- 100 days of AI: https://github.com/kyberszittya/100days-ai, commit: https://github.com/kyberszittya/100days-ai/commit/6fdaa6fc54f7e73799c65e0f9e9d3ebf76fba561
+
